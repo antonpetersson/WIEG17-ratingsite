@@ -1,5 +1,5 @@
 <?php
-    define("namn", "Spelarranking.se");
+    define("namn", "PlayerRank.com");
     require "data.php";
     require "function.php";
 ?>
@@ -18,7 +18,7 @@
         <?php 
             //Skickar namn till title
             echo constant("namn");
-            //Kollar om titleEnd är satt, och isåfall printer efter namn
+            //Kollar om titleEnd är satt, och isåfall printar efter namn
             if (isset($titleEnd)){
                 echo " - $titleEnd";
             }
