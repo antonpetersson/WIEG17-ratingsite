@@ -1,0 +1,28 @@
+<?php
+$listan = array(
+    "19 Poäng - Kevin Stuhr Ellegaard" => "Målvakt",
+    "8 Poäng - Jesper Manns" => "Ytterback",
+    "10 Poäng - Adam Lundqvist" => "Ytterback",
+    "1 Poäng - Jørgen Horn" => "Mittback",
+    "9 Poäng - Jon Jönsson" => "Mittback",
+    "13 Poäng - Daniel Gustavsson" => "Yttermittfältare", 
+    "23 Poäng - Samuel Holmén" => "Mittfältare", 
+    "25 Poäng - Simon Lundevall" => "Yttermittfältare", 
+    "22 Poäng - Issam Jebali" => "Offensiv Mittfältare", 
+    "17 Poäng - Joakim Nilsson" => "Mittback",
+    "4 Poäng - Rami Kaib" => "Ytterback",
+    "5 Poäng - Ibrahim Drešević" => "Mittback",
+    "7 Poäng - Rasmus Rosenqvist" => "Mittfältare",
+    "21 Poäng - Per Frick" => "Anfallare",
+    "24 Poäng - Simon Olsson" => "Mittfältare",
+    "15 Poäng - Jesper Karlsson" => "Yttermittfältare", 
+    "12 Poäng - Emir Bajrami" => "Yttermittfältare", 
+    "2 Poäng - Christopher McVey" => "Ytterback",
+    "16 Poäng - Viktor Prodell" => "Anfallare",
+    "14 Poäng - Alex Dyer" => "Offensiv Mittfältare",
+    "18 Poäng - Stefan Ishizaki" => "Offensiv Mittfältare",
+    "3 Poäng - Arian Kabashi" => "Yttermittfältare", 
+    "6 Poäng - Marokhy Ndione" => "Anfallare",
+    "20 Poäng - Robert Gojani" => "Mittfältare",
+    "11 Poäng - David Olsson" => "Målvakt",);
+    ?>
